@@ -1,0 +1,11 @@
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\bin\Debug\netcoreapp2.2\FileReadProg.deps.json
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\bin\Debug\netcoreapp2.2\FileReadProg.runtimeconfig.json
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\bin\Debug\netcoreapp2.2\FileReadProg.runtimeconfig.dev.json
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\bin\Debug\netcoreapp2.2\FileReadProg.dll
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\bin\Debug\netcoreapp2.2\FileReadProg.pdb
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\obj\Debug\netcoreapp2.2\FileReadProg.csprojAssemblyReference.cache
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\obj\Debug\netcoreapp2.2\FileReadProg.csproj.CoreCompileInputs.cache
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\obj\Debug\netcoreapp2.2\FileReadProg.AssemblyInfoInputs.cache
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\obj\Debug\netcoreapp2.2\FileReadProg.AssemblyInfo.cs
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\obj\Debug\netcoreapp2.2\FileReadProg.dll
+C:\Users\rupesh.mandal\source\repos\FileReadProg\FileReadProg\obj\Debug\netcoreapp2.2\FileReadProg.pdb
